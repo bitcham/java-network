@@ -1,22 +1,14 @@
-# Java Network Chat Application 🌐💬
+# Java Network Application 🌐💬
 
-This project is a Java-based network programming application that implements a multi-client chat server with resource management and exception handling. It demonstrates fundamental concepts of TCP/IP networking, socket programming, and proper resource cleanup.
+This project is a Java-based network programming application that implements a multi-client server with resource management and exception handling. It demonstrates fundamental concepts of TCP/IP networking, socket programming, and proper resource cleanup.
 
 ## 🌟 Features
 
-- Multi-client support for simultaneous chat sessions
-- Chat commands system with various functionalities
+- Multi-client support for simultaneous sessions
 - Robust resource management and cleanup
 - Exception handling for network-related issues
 - Logging utilities for better debugging and monitoring
 
-## 📝 Chat Commands
-
-- `/join|{name}` - Join the chat server with a username
-- `/message|{content}` - Send message to all connected users
-- `/change|{name}` - Change your username
-- `/users` - List all connected users
-- `/exit` - Leave the chat server
 
 ## 🗂️ Project Structure
 
